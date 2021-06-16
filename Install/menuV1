@@ -1,5 +1,5 @@
 #!/bin/bash
 #Menu Original
 
-wget -O /bin/menu https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Modulos/menu > /dev/null 2>&1; chmod +x /bin/menu; /bin/menu
+wget -O /bin/menu https://raw.githubusercontent.com/teamvpn/SSHMANAGER/master/Modulos/menu > /dev/null 2>&1; chmod +x /bin/menu; /bin/menu
 #fim
