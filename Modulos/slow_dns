@@ -25,10 +25,10 @@ configdns() {
 echo -e "${CORTITLE}           SSHPLUS SLOWDNS (Beta)            ${SCOLOR}"
 installslowdns() {
     echo -e "\n${YELLOW}พึงระลึกไว้เสมอว่าวิธีการนี้ยังคงอยู่\nอยู่ในระยะเบต้าและเหนือกว่าที่เป็นอยู่\nช้าอาจไม่ทำงานอย่างสมบูรณ์ ! ${SCOLOR}\n"
-    echo -ne "${GREEN}DESEJA CONTINUAR A INSTALACAO ? ${YELLOW}[s/n]:${SCOLOR} "
+    echo -ne "${GREEN}Choose a option  ? ${YELLOW}[y/n]:${SCOLOR} "
     read resp
-    [[ "$resp" != @(s|sim|S|SIM) ]] && {
-        echo -e "\n${RED}Retornando...${SCOLOR}"
+    [[ "$resp" != @(y|sim|Y|SIM) ]] && {
+        echo -e "\n${RED}กลับ...${SCOLOR}"
         sleep 2
         conexao
     }
