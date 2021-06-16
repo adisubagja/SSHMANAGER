@@ -26,7 +26,7 @@
 ## :book: Installation
 ```
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/teamvpn/SSHMANAGER/master/Plus; chmod 777 Plus; ./Plus
 
 ```
 
@@ -85,11 +85,11 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
 
 # 😍 Credits
 
-1. @crazy_vpn - Developer of SSHPlus Manager
+1. @dev_vpn - Developer of SSHPlus Manager
 
 # 🏃‍contact me
 
-3. [🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥](https://t.me/sibatrow) 
+3. [🔥⚡️⚡️ KHMERNETVPN 🇱🇰 ⚡️⚡️🔥](https://t.me/dev_vpn) 
 
 ```
 * NO MINING!
