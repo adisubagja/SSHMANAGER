@@ -1,10 +1,12 @@
 #!/bin/bash
-#====================================================
-#	SCRIPT: LIMITER SSHPLUS MANAGER
-#	DESENVOLVIDO POR:	CRAZY_VPN
-#	CONTATO TELEGRAM:	http://t.me/crazy_vpn
-#	CANAL TELEGRAM:	http://t.me/sshplus
-#====================================================
+#===================================================
+#   SCRIPT: BOT KH-VPN FREE SCRIPT
+#   DATA ATT:   15 de Jul 2020
+#   DEVELOPED BY:	LUNDY KUBTAPHAKON
+#   API SHELLBOT:   KH-VPN
+#   CONTACT TELEGRAM:	http://t.me/dev_vpn
+#   FACEBOOK:	FREENETVPNDTAC
+#===================================================
 clear
 database="/root/usuarios.db"
 fun_multilogin() {
