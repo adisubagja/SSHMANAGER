@@ -20,7 +20,7 @@
 -------------------------------------------------------------------------------
 
 # Update Tutorial and SSH Bot Tutorial
-- Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://youtu.be/EdFbpnnCLeM)
+- Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://www.youtube.com/channel/UC5enir85RcoX-nv5ovJAT3Q/featured)
 
 ## :book: Installation
 ```
@@ -35,7 +35,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/te
 
 <img align="right" src="https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/ssh bot.jpg" width='300'/>
 
-![logo](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/DARKSSH.jpg)
+![logo](https://github.com/teamvpn/SSHMANAGER/blob/master/image/222.jpg)
 
 [![Stars](https://img.shields.io/github/stars/sbatrow/DARKSSH-MANAGER?style=flat-square&color=yellow)](https://github.com/sbatrow/DARKSSH-MANAGER/stargazers)
 [![Forks](https://img.shields.io/github/forks/sbatrow/DARKSSH-MANAGER?style=flat-square&color=orange)](https://github.com/sbatrow/DARKSSH-MANAGER/fork)
