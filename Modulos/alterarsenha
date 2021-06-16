@@ -123,6 +123,6 @@ else
 			fi
 		fi
 	else
-		tput setaf 7 ; tput setab 4 ; tput bold ; echo "" ; echo "පරිශීලකයා $user නොපවතී!" ; echo "" ; tput sgr0
+		tput setaf 7 ; tput setab 4 ; tput bold ; echo "" ; echo "บัญชีผู้ใช้ $user ไม่มีอยู่!" ; echo "" ; tput sgr0
 	fi
 fi
