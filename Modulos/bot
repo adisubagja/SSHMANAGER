@@ -1,11 +1,11 @@
 #!/bin/bash
 #===================================================
-#   SCRIPT: BOT SSHPLUS MANAGER
-#   DATA ATT: 24 de Jan 2021
-#   DESENVOLVIDO POR: CRAZY_VPN
-#   API SHELLBOT: SHAMAN
-#   CONTATO TELEGRAM: http://t.me/crazy_vpn
-#   CANAL TELEGRAM: http://t.me/sshplus
+#	SCRIPT: BOT KH-VPN FREE SCRIPT
+#   DATA ATT:   15 de Jul 2020
+#	DEVELOPED BY:	LUNDY KUBTAPHAKON
+#   API SHELLBOT:   KH-VPN
+#	CONTACT TELEGRAM:	http://t.me/dev_vpn
+#	FACEBOOK:	FREENETVPNDTAC
 #===================================================
 [[ ! -d /etc/SSHPlus ]] && exit 0
 [[ ! -d /etc/bot ]] && exit 0
@@ -24,10 +24,10 @@ fun_menu() {
         local env_msg
 	env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  # ⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡      </b>\n"
+        env_msg+="<b>----------♻️ KH_VPN MANAGER ♻️----------</b>\n"
+	env_msg+="<b>  # ⚡️⚡️ fastnetvpn.pw ⚡️⚡      </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
+        env_msg+="<b>/Telegram- @dev_vpn /Whatsapp- +66948497673 </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>SELECT AN OPTION BELOW!</i>\n\n"
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} --text "$env_msg" \
@@ -44,10 +44,10 @@ fun_menu() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  # ⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡      </b>\n"
+        env_msg+="<b>----------♻️ KH_VPN MANAGER ♻️----------</b>\n"
+	env_msg+="<b>  # ⚡️⚡️ fastnetvpn.pw ⚡️⚡      </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
+        env_msg+="<b>/Telegram- @dev_vpn /Whatsapp- +66948497673 </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>SELECT AN OPTION BELOW!</i>\n\n"
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} --text "$env_msg" \
@@ -58,10 +58,10 @@ fun_menu() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  # ⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡      </b>\n"
+        env_msg+="<b>----------♻️ KH_VPN MANAGER ♻️----------</b>\n"
+	env_msg+="<b>  # ⚡️⚡️ fastnetvpn.pw ⚡️⚡      </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
+        env_msg+="<b>/Telegram- @dev_vpn /Whatsapp- +66948497673 </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>SELECT AN OPTION BELOW!</i>\n\n"
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} --text "$env_msg" \
@@ -87,10 +87,10 @@ fun_ajuda() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  # ⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡      </b>\n"
+        env_msg+="<b>----------♻️ KH_VPN MANAGER ♻️----------</b>\n"
+	env_msg+="<b>  # ⚡️⚡️ fastnetvpn.pw ⚡️⚡      </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
+        env_msg+="<b>/Telegram- @dev_vpn /Whatsapp- +66948497673 </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>Available Commands</i>\n\n"
         env_msg+="[<b>01</b>] /menu = Displays menu\n"
@@ -127,10 +127,10 @@ fun_ajuda() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  # ⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡      </b>\n"
+        env_msg+="<b>----------♻️ KH_VPN MANAGER ♻️----------</b>\n"
+	env_msg+="<b>  # ⚡️⚡️ fastnetvpn.pw ⚡️⚡      </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
+        env_msg+="<b>/Telegram- @dev_vpn /Whatsapp- +66948497673 </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>Available Commands</i>\n\n"
         env_msg+="[<b>01</b>] /menu = Displays menu\n"
@@ -157,10 +157,10 @@ fun_ajuda() {
         local env_msg
         env_msg="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>----------♻️ DARKSSH MANAGER ♻️----------</b>\n"
-	env_msg+="<b>  # ⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡      </b>\n"
+        env_msg+="<b>----------♻️ KH_VPN MANAGER ♻️----------</b>\n"
+	env_msg+="<b>  # ⚡️⚡️ fastnetvpn.pw ⚡️⚡      </b>\n"
 	env_msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        env_msg+="<b>/Telegram- @sibatrow /Whatsapp- +94710572224 </b>\n"
+        env_msg+="<b>/Telegram- @dev_vpn /Whatsapp- +66948497673 </b>\n"
 	env_msg+="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         env_msg+="⚠️ <i>Available Commands</i>\n\n"
         env_msg+="[<b>01</b>] /menu = Displays menu\n"
@@ -818,7 +818,7 @@ fun_download() {
     echo $_file2
     ShellBot.sendDocument --chat_id ${message_from_id[$id]} \
         --document "@/etc/bot/arquivos/$_file" \
-        --caption "$(echo -e "✅ SUCCESSFULLY CREATED ✅\n\n♻️Paid Privet SSH ♻️\n\n🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\n=======================\n\n\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $_file2)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $_file2)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $_file2)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $_file2)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\n [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ DARKSSH ◇═ [•]☬")" \
+        --caption "$(echo -e "✅ SUCCESSFULLY CREATED ✅\n\n♻️Paid Privet SSH ♻️\n\n🔥⚡️⚡️ KHMERNETVPN ⚡️⚡️🔥\n======================\n=❌NO SPAM\n=❌NO DDOS\n=❌NO HACKING\n=❌NO CARDING\n=❌NO TORRENT\n=❌NO OVER DOWNLOAD\n=❌NO MULTILOGIN\n=======================\n\n\nᗚ Username • ๛ <code>$(awk -F " " '/Nome/ {print $2}' $_file2)</code>\nᗚ Password • ๛ <code>$(awk -F " " '/Senha/ {print $2}' $_file2)</code>\nᗚ Limit • $(awk -F " " '/Limite/ {print $2}' $_file2)\nᗚ Expire • $(awk -F " " '/Validade/ {print $2}' $_file2)\n\n࿂ SSH •  22\n࿂ SSL •  443\n࿂ Squid  •  8080\n࿂ Dropbear •  80\n[-] ═───────◇───────═\n࿂ Badvpn •  7300\n [-] ═───────◇───────═\n›☬[•] SCRIPTS ═◇ DARKSSH ◇═ [•]☬")" \
         --parse_mode html
     [[ -e "/root/$(awk -F " " '/Nome/ {print $2}' $_file2).ovpn" ]] && {
         ShellBot.sendDocument --chat_id ${message_from_id[$id]} \
