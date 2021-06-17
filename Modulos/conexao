@@ -1022,7 +1022,7 @@
 				fun_conexao
 			}
 			echo ""
-			read -p "$(echo -e "\033[1;32mเลื่อก Port ใช้งาน? \033[1;37m")" -e -i 1194 porta
+			read -p "$(echo -e "\033[1;32mChoose Port ใช้งาน? \033[1;37m")" -e -i 1194 porta
 			[[ -z "$porta" ]] && {
 				echo ""
 				echo -e "\033[1;31mPort ไม่ถูกต้อง!"
