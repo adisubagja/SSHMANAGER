@@ -33,19 +33,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/te
 
 -------------------------------------------------------------------------------
 
-<img align="right" src="https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/ssh bot.jpg" width='300'/>
 
-![logo](https://github.com/teamvpn/SSHMANAGER/blob/master/image/222.jpg)
-
-[![Stars](https://img.shields.io/github/stars/sbatrow/DARKSSH-MANAGER?style=flat-square&color=yellow)](https://github.com/sbatrow/DARKSSH-MANAGER/stargazers)
-[![Forks](https://img.shields.io/github/forks/sbatrow/DARKSSH-MANAGER?style=flat-square&color=orange)](https://github.com/sbatrow/DARKSSH-MANAGER/fork)
-[![Size](https://img.shields.io/github/repo-size/sbatrow/DARKSSH-MANAGER?style=flat-square&color=green)](https://github.com/sbatrow/DARKSSH-MANAGER/)   
-[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sbatrow/DARKSSH-MANAGER/graphs/commit-activity)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sbatrow/DARKSSH-MANAGER)   
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/sbatrow/DARKSS-HMANAGER/graphs/contributors)        
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-GPL-blue)](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/LICENSE)
 
 
 
@@ -61,7 +49,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/te
                    @ Auto genarate                                                                                  @ Banner
 <img align="right" src="https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/banner.jpg" width='300'/>
   
-![logo](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/outo.jpg)                 
+![logo]()                 
          
 **Manager Script**
 
